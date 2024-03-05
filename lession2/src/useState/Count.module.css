@@ -1,0 +1,29 @@
+.countContainer{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.countDisplay{
+    font-size: 10em;
+    margin-top: 0;
+    margin-bottom: 50px;
+
+}
+.countButton{
+    width:150px;
+    height:50px;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 0 5px;
+    background-color:hsl(184, 100%, 50%) ;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.countButton:hover{
+    background-color: rgb(255, 0, 0);
+}
+.title{
+    font-size: 2em;
+}
